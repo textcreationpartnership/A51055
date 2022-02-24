@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A model of a college to be settled in the * University, for the education of some youths of the Greek Church</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51055</idno>
+            <idno type="STC">Wing M2314</idno>
+            <idno type="STC">ESTC R220440</idno>
+            <idno type="EEBO-CITATION">99831842</idno>
+            <idno type="PROQUEST">99831842</idno>
+            <idno type="VID">36309</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36309)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2128:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A model of a college to be settled in the * University, for the education of some youths of the Greek Church</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Creased with some loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  England --  Early works to 1800.</term>
+               <term>Education, Higher --  England --  17th century.</term>
+               <term>Universities and colleges --  England --  Early works to 1800.</term>
+               <term>Religious education --  England --  Early works to 1800.</term>
+               <term>Youth --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:36309:1" rendition="simple:additions"/>
+            <head>A Model of a COLLEGE to be Settled In the <note place="margin">Gloceſter-Hall <hi>in</hi> Oxford <hi>is judg'd to be a very fit place, and accordingly is ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t apart for the ſame.</hi>
+               </note> UNIVERSITY, <hi>For the Education of ſome Youths of the</hi> Greek Church.</head>
+            <list>
+               <item>I. THAT there be a College in the Univerſity for the Education of Twenty Youths of the <hi>Greek</hi> Communion, to be brought up here for the ſpace of five Years, or fewer, if in leſſer time they ſhall have gone thorough the Courſe of Studies, which ſhall be thought neceſſary for them; and then without any pretence whatever to the contrary four of them to be yearly ſent back into their own Country, and others to be ſtill ſucceſſively brought over to ſucceed them here.</item>
+               <item>II. That in the ſaid College, they be furniſhed with Lodging, Meat, Drink, Cloaths, Medicines, Books, and whatever elſe ſhall be neceſſary for their Support or Studies.</item>
+               <item>III. That the uſual Age at which they come over be between 14 and 20; and that they be already entered in the Ancient <hi>Greek</hi>: and if there be any of them who underſtand the <hi>Turkiſh, Arabic, Perſian, Armenian</hi> or <hi>Ruſſian</hi> Language, that as many of them, as can be had, may be ſuch.</item>
+               <item>IV. That at their firſt arrival, either by the Right Honorable the <hi>Governor,</hi> or the Honorable the <hi>Deputy-Governor</hi> of the <hi>Turkey Company,</hi> they ſhall be Solemnly delivered into the care of him, who is to be their <hi>Governor,</hi> who having received them, ſhall forthwith preſent them to <hi>the Right Reverend the Lord Biſhop of</hi> London; and in a Day or two after conduct them to the <hi>Univerſity.</hi>
+               </item>
+               <item>V. That the Lodgings prepared to receive them, be ſo contrived that <hi>each Claſſis,</hi> (for they will be to be divided into <hi>two Claſſes</hi>) may have their Chambers and Studies within the view, or call of their reſpective <hi>Tutor,</hi> who ſhall be always ready, as to direct them <hi>in their Studies,</hi> ſo to be the <hi>Guardian of their Manners,</hi> and keep them conſtantly to the <hi>Language</hi> they are to converſe in.</item>
+               <item>VI. That the <hi>Language</hi> in which they ſhall converſe for the <hi>two firſt years</hi> be the <hi>ancient Greek,</hi> and that then, or ſooner, as their Attainments ſhall be, they may be entred in the <hi>Latin,</hi> making that their <hi>conſtant Language</hi> for one or two other Years, and when ſufficiently advanced in theſe, they may be entred <hi>in the Hebrew.</hi>
+               </item>
+               <item>VII. That they be all alike Habited, in the graveſt ſort of Habit worn in their own Country; and that they wear no other either in <hi>the Univerſity,</hi> or <hi>any where elſe.</hi>
+               </item>
+               <item>VIII. That as to <hi>Philoſophy</hi> they begin with <hi>Aristotl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and the <hi>Greek Scholiaſts,</hi> from thence be led on to <hi>Plato,</hi> joyning with theſe the Study of their <hi>other ancient Authors,</hi> and ſuch of the <hi>Greek Fathers,</hi> as ſhall moſt conduce to the explaining <hi>of the Holy Bible,</hi> and thereby fit them to be <hi>Learn'd and able Preachers and Schoolmaſters</hi> in their own Country</item>
+               <item>IX. That they be likewiſe acquainted with th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>of the chiefeſt Controverſies,</hi> as between their <hi>own Church,</hi> and that of <hi>Rome,</hi> ſo between the <hi>Proteſtant,</hi> and the <hi>Papiſt.</hi>
+               </item>
+               <item>X. That <note place="margin">Dr. <hi>B. Woodroffe</hi> Can. of <hi>Ch. Ch.</hi> in <hi>Oxon</hi> is appointed Governor of <hi>Gloceſter-Hall,</hi> with Power and Direction to take to him</note> the <hi>Governor</hi> of the ſaid College constantly attend at the <hi>times of ſolemn Devotion,</hi> and preſide at <hi>all publick Exerciſes,</hi> frequently <hi>viſiting</hi> the Youths in <hi>their Chambers,</hi> and daily <hi>ſetting out,</hi> and <hi>taking</hi> an <hi>account</hi> of their <hi>Studies.</hi>
+               </item>
+               <item>XI. That <note place="margin">the ſaid Aſſo<g ref="char:EOLhyphen"/>ciates or Tutors.</note> 
+                  <hi>two Aſſociates or Tutors,</hi> (who may be provided out of any other College or Hall in the Univerſity, or elſewhere,) be joyn'd <hi>with the Governor,</hi> to whom it ſhall belong to aſſiſt under him in the <hi>Education and Government</hi> of the ſaid Youths.</item>
+               <item>XII. That the Youths go not out <hi>of the College</hi> without leave from <hi>the Governor</hi> thereof, nor without a <hi>Companion</hi> by him to be appointed; to recompence which Reſtraint, <hi>places</hi> for <hi>innocent Exerciſes,</hi> and <hi>Recreations</hi> may be allotted within themſelves.</item>
+               <item>XIII. That there be <hi>no Vacation</hi> in the ſaid <hi>College,</hi> but wholly left to the Diſcretion of the <hi>Governor</hi> to give <hi>what Relaxations</hi> he ſhall ſee fit.</item>
+               <item>XIV. That as to the <hi>times</hi> of their <hi>ſolemn Devotions,</hi> which ſhall always be in <hi>Greek,</hi> half an hour after five in the Morning, half an hour before Supper, and at Nine at Night ſhall be the <hi>prefix'd Seaſons</hi>; at each of which they ſhall in their turns read <hi>a Greek Chapter</hi> out of the <hi>Holy Bible.</hi>
+               </item>
+               <item>XV. That for their better Inſtruction in Religion, an <hi>Orthodox Catechiſm</hi> be compiled in the <hi>Ancient, and Modern Greek,</hi> both for their <hi>preſent</hi> uſe here, and to be carried with them at their return, to be diſtributed among <hi>poor Chriſtians of the Eaſtern Church.</hi>
+               </item>
+               <item>XVI. That for the <hi>Satisfaction of the Univerſity,</hi> ſome of them twice every Term perform publick Exerciſes in the Schools in <hi>Greek,</hi> by <hi>declaiming</hi> once, and <hi>diſputing</hi> once, as ſhall be directed by the Vice-chancellor.</item>
+               <item>XVII. That for the <hi>Satisfaction of others,</hi> who may be concerned in this Work, and may not have the Opportunity of taking Cognizance of what is done in the <hi>Univerſity</hi> an <hi>Account of their Progreſs in their Studies</hi> may from Year to Year, or oft'ner, if thought fit, be given in in Writing to the <hi>Right Reverend the Lord Biſhop of London,</hi> and <hi>a Duplicate thereof</hi> at the ſame time ſent to the <hi>Turkey Company</hi>: And when to return into their own Country they may be again preſented to <hi>the Right Reverend the Lord Biſhop of London,</hi> and ſo return'd back to <hi>the Turkey Company</hi> by their <hi>Governor,</hi> with a <hi>particular account in Writing</hi> of the whole Progreſs each ſhall have made in his Studies in the time of his ſtay here, to be ſent with them to the <hi>reſpective Parti<g ref="char:EOLhyphen"/>arch</hi> to whom they belong.</item>
+               <item>XVIII. That as to all things, beſides what are above mentioned, relating to <hi>good Manners and Diſcipline,</hi> &amp;c. they be ſubject to the <hi>Statutes of the Univerſity.</hi>
+               </item>
+               <item>XIX. That for the better Ordering of the Fund by which this is to be carried on, (it being to ariſe chiefly by the Contributions of thoſe, whoſe Hearts God already hath, or ſhall move to ſo good a Work) it be managed by ſuch Truſtees as the Contributors, or major part of them, ſhall nominate and appoint, to ſee the Sums ſubſcribed to be imployed for the Uſes above-mentioned.</item>
+               <item>XX. That a Receiver be likewiſe appointed by the Major Part of the Subſcribers or Truſtees, whoſe Buſineſs it ſhall be to receive the ſeveral Subſcripti<g ref="char:EOLhyphen"/>ons to be paid in to the Governor or Officers of the ſaid College as ſhall be thought moſt fit; who ſhall likewiſe Audit, or make up the Accounts from Quarter to Quarter with the ſaid Governor or Officers, to be remitted back to, and approved by the Truſtees.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
